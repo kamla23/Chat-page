@@ -81,6 +81,8 @@ style.innerHTML = `
     padding: 16px;
     text-align: center;
     font-family: Roboto, sans-serif;
+  margin-bottom: 10px;
+  padding-bottom: 0;
   }
 
   .whole {
